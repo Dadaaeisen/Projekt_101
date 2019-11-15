@@ -1,2 +1,2 @@
-# Projekt_101
+# Projekt_I love :coffee:
 Project Image Detection
